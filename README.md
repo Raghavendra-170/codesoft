@@ -1,4 +1,4 @@
-### Task-1 🧮 Basic Calculator
+# Task-1 🧮 Basic Calculator
 
 A simple web-based calculator built with **HTML**, **CSS**, and **JavaScript**. This calculator supports basic arithmetic operations and features a responsive and user-friendly interface.
 
@@ -50,7 +50,7 @@ This project is for educational/demo purposes and free to use.
 ---
 
 
-### Task-2 Roman Gyms - Landing Page
+# Task-2 Roman Gyms - Landing Page
 
 This is a responsive **gym landing page** built using **HTML** and **CSS**. It showcases the services and mission of *Roman Gyms* while providing users with options to learn more or request a franchise.
 
@@ -111,7 +111,7 @@ This project is free to use and modify for educational or personal use.
 
 ---
 
-### Task-3 👨‍💻 Personal Portfolio Website
+# Task-3 👨‍💻 Personal Portfolio Website
 
 A dynamic and responsive personal portfolio website showcasing my projects, skills, certifications, and contact information. Built with HTML, CSS, and Bootstrap, this website helps visitors learn more about my technical background and experience in web development.
 
